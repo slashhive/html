@@ -1,6 +1,6 @@
 {
-    "name": "laravelcollective/html",
-    "description": "HTML and Form Builders for the Laravel Framework",
+    "name": "slashhive/html",
+    "description": "HTML and Form Builders for the Laravel Framework forked from laravelcollective/html",
     "license": "MIT",
     "homepage": "https://laravelcollective.com",
     "support": {
